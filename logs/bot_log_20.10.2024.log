@@ -1,0 +1,1401 @@
+2024-10-20 00:20:57,331 - INFO - Бот запущен.
+2024-10-20 00:21:00,001 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-10-20 00:21:00,618 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getMe "HTTP/1.1 200 OK"
+2024-10-20 00:21:00,715 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/deleteWebhook "HTTP/1.1 200 OK"
+2024-10-20 00:21:00,716 - INFO - Added job "send_daily_cards" to job store "default"
+2024-10-20 00:21:00,717 - INFO - Scheduler started
+2024-10-20 00:21:00,717 - INFO - Application started
+2024-10-20 00:21:11,100 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:21:21,201 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:21:31,304 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:21:33,918 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:21:33,920 - INFO - Пользователь None (334124671) вызвал команду /start.
+2024-10-20 00:21:34,347 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendMessage "HTTP/1.1 200 OK"
+2024-10-20 00:21:37,783 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:21:37,784 - INFO - Получено сообщение от None (334124671): 👤 Личный кабинет
+2024-10-20 00:21:37,785 - INFO - Пользователь None (334124671) запросил личный кабинет.
+2024-10-20 00:21:37,908 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendMessage "HTTP/1.1 200 OK"
+2024-10-20 00:21:39,371 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:21:39,372 - INFO - Получено сообщение от None (334124671): 🃏 Карта дня
+2024-10-20 00:21:39,373 - INFO - Пользователь None (334124671) запросил карту дня.
+2024-10-20 00:21:39,506 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendMessage "HTTP/1.1 200 OK"
+2024-10-20 00:21:39,648 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendMessage "HTTP/1.1 200 OK"
+2024-10-20 00:21:39,771 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendMessage "HTTP/1.1 200 OK"
+2024-10-20 00:21:39,897 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendMessage "HTTP/1.1 200 OK"
+2024-10-20 00:21:40,031 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendMessage "HTTP/1.1 200 OK"
+2024-10-20 00:21:40,668 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendPhoto "HTTP/1.1 200 OK"
+2024-10-20 00:21:49,490 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:21:59,591 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:22:09,695 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:22:15,629 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:22:15,631 - INFO - Получено сообщение от None (334124671): 🔍 Поиск карты
+2024-10-20 00:22:15,631 - INFO - Пользователь None (334124671) начал поиск карты.
+2024-10-20 00:22:16,072 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendMessage "HTTP/1.1 200 OK"
+2024-10-20 00:22:17,132 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:22:17,331 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 00:22:17,514 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageText "HTTP/1.1 200 OK"
+2024-10-20 00:22:27,234 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:22:37,334 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:22:47,451 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:22:49,063 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:22:49,064 - INFO - Получено сообщение от None (334124671): 📜 История
+2024-10-20 00:22:49,065 - INFO - Пользователь None (334124671) запросил историю карт.
+2024-10-20 00:22:49,479 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendMessage "HTTP/1.1 200 OK"
+2024-10-20 00:22:59,174 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:23:09,280 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:23:19,383 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:23:29,484 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:23:39,584 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:23:49,687 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:23:59,812 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:24:09,926 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:24:20,028 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:24:30,151 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:24:40,265 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:24:50,365 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:25:00,469 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:25:10,570 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:25:20,673 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:25:30,774 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:25:40,882 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:25:50,983 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:26:01,100 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:26:11,232 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:26:21,348 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:26:31,467 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:26:41,568 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:26:51,680 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:27:01,781 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:27:11,885 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:27:21,988 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:27:28,364 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:27:28,365 - INFO - Application is stopping. This might take a moment.
+2024-10-20 00:27:28,366 - INFO - Scheduler has been shut down
+2024-10-20 00:27:28,366 - INFO - Application.stop() complete
+2024-10-20 00:30:12,008 - INFO - Бот запущен.
+2024-10-20 00:30:12,093 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-10-20 00:30:12,710 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getMe "HTTP/1.1 200 OK"
+2024-10-20 00:30:12,804 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/deleteWebhook "HTTP/1.1 200 OK"
+2024-10-20 00:30:12,806 - INFO - Added job "send_daily_cards" to job store "default"
+2024-10-20 00:30:12,806 - INFO - Scheduler started
+2024-10-20 00:30:12,807 - INFO - Application started
+2024-10-20 00:30:13,181 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:30:13,182 - INFO - Получено сообщение от None (334124671): 🔍 Поиск карты
+2024-10-20 00:30:13,182 - INFO - Пользователь None (334124671) начал поиск карты.
+2024-10-20 00:30:13,377 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendMessage "HTTP/1.1 200 OK"
+2024-10-20 00:30:13,512 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:30:13,514 - INFO - Получено сообщение от None (334124671): 🔍 Поиск карты
+2024-10-20 00:30:13,515 - INFO - Пользователь None (334124671) начал поиск карты.
+2024-10-20 00:30:13,660 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendMessage "HTTP/1.1 200 OK"
+2024-10-20 00:30:23,615 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:30:33,715 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:30:43,814 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:30:53,917 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:31:04,017 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:31:14,120 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:31:24,227 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:31:34,326 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:31:44,442 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:31:54,552 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:32:04,653 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:32:14,760 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:32:24,896 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:32:35,047 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:32:45,146 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:52:41,421 - INFO - Бот запущен.
+2024-10-20 00:52:43,747 - ERROR - Ошибка при запуске бота: 'NoneType' object has no attribute 'run_daily'
+2024-10-20 00:53:24,085 - INFO - Бот запущен.
+2024-10-20 00:53:24,169 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-10-20 00:53:24,812 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getMe "HTTP/1.1 200 OK"
+2024-10-20 00:53:24,919 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/deleteWebhook "HTTP/1.1 200 OK"
+2024-10-20 00:53:24,921 - INFO - Added job "send_daily_cards" to job store "default"
+2024-10-20 00:53:24,921 - INFO - Scheduler started
+2024-10-20 00:53:24,922 - INFO - Application started
+2024-10-20 00:53:25,327 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:53:25,328 - INFO - Получено сообщение от None (334124671): 🔍 Поиск карты
+2024-10-20 00:53:25,328 - INFO - Пользователь None (334124671) начал поиск карты.
+2024-10-20 00:53:25,486 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendMessage "HTTP/1.1 200 OK"
+2024-10-20 00:53:29,914 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:53:29,916 - INFO - Получено сообщение от None (334124671): 🔍 Поиск карты
+2024-10-20 00:53:29,916 - INFO - Пользователь None (334124671) начал поиск карты.
+2024-10-20 00:53:30,042 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendMessage "HTTP/1.1 200 OK"
+2024-10-20 00:53:31,155 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:53:31,338 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 00:53:31,486 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageText "HTTP/1.1 200 OK"
+2024-10-20 00:53:33,692 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:53:33,883 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 00:53:34,247 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendPhoto "HTTP/1.1 200 OK"
+2024-10-20 00:53:34,430 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageReplyMarkup "HTTP/1.1 200 OK"
+2024-10-20 00:53:43,799 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:53:44,828 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:53:44,830 - INFO - Получено сообщение от None (334124671): 🔍 Поиск карты
+2024-10-20 00:53:44,831 - INFO - Пользователь None (334124671) начал поиск карты.
+2024-10-20 00:53:45,239 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendMessage "HTTP/1.1 200 OK"
+2024-10-20 00:53:46,587 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:53:46,718 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 00:53:46,875 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageText "HTTP/1.1 200 OK"
+2024-10-20 00:53:49,235 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:53:49,236 - INFO - Получено сообщение от None (334124671): 🔍 Поиск карты
+2024-10-20 00:53:49,236 - INFO - Пользователь None (334124671) начал поиск карты.
+2024-10-20 00:53:49,387 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendMessage "HTTP/1.1 200 OK"
+2024-10-20 00:53:59,343 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:54:09,454 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:54:19,577 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:54:29,692 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:54:39,799 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:54:49,907 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:55:00,015 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:55:10,127 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:55:20,235 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:55:30,340 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:55:40,445 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:55:50,551 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:56:00,657 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:56:10,763 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:56:20,867 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:56:30,974 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:56:41,079 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:56:51,186 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:57:01,299 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:57:11,403 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:57:21,511 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:57:31,617 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:57:41,721 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:57:51,827 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:58:01,935 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:58:12,044 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:58:22,149 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:58:32,257 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:58:42,368 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:58:52,475 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:59:02,580 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:59:12,690 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:59:22,794 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:59:32,900 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:59:43,009 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 00:59:53,114 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:00:03,222 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:00:13,339 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:00:23,446 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:00:33,555 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:00:43,661 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:00:53,771 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:01:03,893 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:01:13,999 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:01:24,109 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:01:34,224 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:01:39,027 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:01:39,028 - INFO - Application is stopping. This might take a moment.
+2024-10-20 01:01:39,030 - INFO - Scheduler has been shut down
+2024-10-20 01:01:39,030 - INFO - Application.stop() complete
+2024-10-20 01:01:42,068 - INFO - Бот запущен.
+2024-10-20 01:01:42,155 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-10-20 01:01:42,584 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getMe "HTTP/1.1 200 OK"
+2024-10-20 01:01:42,681 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/deleteWebhook "HTTP/1.1 200 OK"
+2024-10-20 01:01:42,682 - INFO - Added job "send_daily_cards" to job store "default"
+2024-10-20 01:01:42,683 - INFO - Scheduler started
+2024-10-20 01:01:42,683 - INFO - Application started
+2024-10-20 01:01:45,112 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:01:45,113 - INFO - Получено сообщение от None (334124671): 🔍 Поиск карты
+2024-10-20 01:01:45,114 - INFO - Пользователь None (334124671) начал поиск карты.
+2024-10-20 01:01:45,233 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendMessage "HTTP/1.1 200 OK"
+2024-10-20 01:01:46,572 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:01:46,675 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:01:46,789 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageText "HTTP/1.1 200 OK"
+2024-10-20 01:01:56,699 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:02:05,187 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:02:05,188 - INFO - Получено сообщение от None (334124671): 🔍 Поиск карты
+2024-10-20 01:02:05,188 - INFO - Пользователь None (334124671) начал поиск карты.
+2024-10-20 01:02:05,595 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendMessage "HTTP/1.1 200 OK"
+2024-10-20 01:02:07,032 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:02:07,155 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:02:07,281 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageText "HTTP/1.1 200 OK"
+2024-10-20 01:02:08,861 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:02:08,863 - INFO - Получено сообщение от None (334124671): 🔍 Поиск карты
+2024-10-20 01:02:08,863 - INFO - Пользователь None (334124671) начал поиск карты.
+2024-10-20 01:02:08,994 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendMessage "HTTP/1.1 200 OK"
+2024-10-20 01:02:18,968 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:02:29,073 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:02:39,169 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:02:49,264 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:02:59,367 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:03:07,471 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:03:07,472 - INFO - Application is stopping. This might take a moment.
+2024-10-20 01:03:07,473 - INFO - Scheduler has been shut down
+2024-10-20 01:03:07,474 - INFO - Application.stop() complete
+2024-10-20 01:03:10,425 - INFO - Бот запущен.
+2024-10-20 01:03:10,527 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-10-20 01:03:10,985 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getMe "HTTP/1.1 200 OK"
+2024-10-20 01:03:11,088 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/deleteWebhook "HTTP/1.1 200 OK"
+2024-10-20 01:03:11,090 - INFO - Added job "send_daily_cards" to job store "default"
+2024-10-20 01:03:11,090 - INFO - Scheduler started
+2024-10-20 01:03:11,091 - INFO - Application started
+2024-10-20 01:03:14,504 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:03:14,505 - INFO - Получено сообщение от None (334124671): 🔍 Поиск карты
+2024-10-20 01:03:14,506 - INFO - Пользователь None (334124671) начал поиск карты.
+2024-10-20 01:03:14,624 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendMessage "HTTP/1.1 200 OK"
+2024-10-20 01:03:15,891 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:03:16,078 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:03:16,249 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageText "HTTP/1.1 200 OK"
+2024-10-20 01:03:21,135 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:03:21,136 - INFO - Получено сообщение от None (334124671): 🔍 Поиск карты
+2024-10-20 01:03:21,136 - INFO - Пользователь None (334124671) начал поиск карты.
+2024-10-20 01:03:21,272 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendMessage "HTTP/1.1 200 OK"
+2024-10-20 01:03:22,254 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:03:22,367 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:03:22,478 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageText "HTTP/1.1 200 OK"
+2024-10-20 01:03:24,414 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:03:24,415 - INFO - Получено сообщение от None (334124671): 🔍 Поиск карты
+2024-10-20 01:03:24,415 - INFO - Пользователь None (334124671) начал поиск карты.
+2024-10-20 01:03:24,541 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendMessage "HTTP/1.1 200 OK"
+2024-10-20 01:03:34,512 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:03:44,601 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:03:54,723 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:04:04,835 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:04:14,944 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:04:25,043 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:04:35,136 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:04:45,256 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:04:55,406 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:05:05,501 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:05:15,602 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:05:25,720 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:05:35,816 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:05:45,926 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:05:56,041 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:06:06,138 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:06:16,262 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:06:26,360 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:06:36,464 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:06:42,287 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:06:42,288 - INFO - Application is stopping. This might take a moment.
+2024-10-20 01:06:42,288 - INFO - Scheduler has been shut down
+2024-10-20 01:06:42,289 - INFO - Application.stop() complete
+2024-10-20 01:06:45,021 - INFO - Бот запущен.
+2024-10-20 01:06:45,111 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-10-20 01:06:45,517 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getMe "HTTP/1.1 200 OK"
+2024-10-20 01:06:45,609 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/deleteWebhook "HTTP/1.1 200 OK"
+2024-10-20 01:06:45,611 - INFO - Added job "send_daily_cards" to job store "default"
+2024-10-20 01:06:45,611 - INFO - Scheduler started
+2024-10-20 01:06:45,612 - INFO - Application started
+2024-10-20 01:06:47,313 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:06:47,315 - INFO - Получено сообщение от None (334124671): 🔍 Поиск карты
+2024-10-20 01:06:47,315 - INFO - Пользователь None (334124671) начал поиск карты.
+2024-10-20 01:06:47,432 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendMessage "HTTP/1.1 200 OK"
+2024-10-20 01:06:48,320 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:06:48,442 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:06:48,755 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageText "HTTP/1.1 200 OK"
+2024-10-20 01:06:51,935 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:06:52,043 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:06:52,164 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/deleteMessage "HTTP/1.1 200 OK"
+2024-10-20 01:06:52,520 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendPhoto "HTTP/1.1 200 OK"
+2024-10-20 01:06:52,616 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageReplyMarkup "HTTP/1.1 400 Bad Request"
+2024-10-20 01:06:52,617 - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\admin\Desktop\БОТЫ\qwerty2\venv\Lib\site-packages\telegram\ext\_application.py", line 1335, in process_update
+    await coroutine
+  File "C:\Users\admin\Desktop\БОТЫ\qwerty2\venv\Lib\site-packages\telegram\ext\_handlers\basehandler.py", line 158, in handle_update
+    return await self.callback(update, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\Desktop\БОТЫ\qwerty2\card_search.py", line 94, in handle_card_selection
+    await query.edit_message_reply_markup(reply_markup=None)
+  File "C:\Users\admin\Desktop\БОТЫ\qwerty2\venv\Lib\site-packages\telegram\_callbackquery.py", line 400, in edit_message_reply_markup
+    return await self._get_message().edit_reply_markup(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\Desktop\БОТЫ\qwerty2\venv\Lib\site-packages\telegram\_message.py", line 3817, in edit_reply_markup
+    return await self.get_bot().edit_message_reply_markup(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\Desktop\БОТЫ\qwerty2\venv\Lib\site-packages\telegram\ext\_extbot.py", line 1631, in edit_message_reply_markup
+    return await super().edit_message_reply_markup(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\Desktop\БОТЫ\qwerty2\venv\Lib\site-packages\telegram\_bot.py", line 4259, in edit_message_reply_markup
+    return await self._send_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\Desktop\БОТЫ\qwerty2\venv\Lib\site-packages\telegram\ext\_extbot.py", line 610, in _send_message
+    result = await super()._send_message(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\Desktop\БОТЫ\qwerty2\venv\Lib\site-packages\telegram\_bot.py", line 745, in _send_message
+    result = await self._post(
+             ^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\Desktop\БОТЫ\qwerty2\venv\Lib\site-packages\telegram\_bot.py", line 623, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\Desktop\БОТЫ\qwerty2\venv\Lib\site-packages\telegram\ext\_extbot.py", line 355, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\Desktop\БОТЫ\qwerty2\venv\Lib\site-packages\telegram\_bot.py", line 652, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\Desktop\БОТЫ\qwerty2\venv\Lib\site-packages\telegram\request\_baserequest.py", line 201, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\Desktop\БОТЫ\qwerty2\venv\Lib\site-packages\telegram\request\_baserequest.py", line 382, in _request_wrapper
+    raise BadRequest(message)
+telegram.error.BadRequest: Message to edit not found
+2024-10-20 01:06:59,080 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:06:59,081 - INFO - Получено сообщение от None (334124671): 🔍 Поиск карты
+2024-10-20 01:06:59,081 - INFO - Пользователь None (334124671) начал поиск карты.
+2024-10-20 01:06:59,517 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendMessage "HTTP/1.1 200 OK"
+2024-10-20 01:07:00,957 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:07:01,069 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:07:01,200 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageText "HTTP/1.1 200 OK"
+2024-10-20 01:07:11,058 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:07:21,157 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:07:26,945 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:07:26,946 - INFO - Получено сообщение от None (334124671): 🔍 Поиск карты
+2024-10-20 01:07:26,947 - INFO - Пользователь None (334124671) начал поиск карты.
+2024-10-20 01:07:27,381 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendMessage "HTTP/1.1 200 OK"
+2024-10-20 01:07:29,163 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:07:29,375 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:07:29,586 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageText "HTTP/1.1 200 OK"
+2024-10-20 01:07:39,263 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:07:49,362 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:07:59,468 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:08:09,569 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:08:19,670 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:08:29,776 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:08:39,879 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:08:49,979 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:09:00,080 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:09:10,180 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:09:20,313 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:09:25,346 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:09:25,348 - INFO - Application is stopping. This might take a moment.
+2024-10-20 01:09:25,349 - INFO - Scheduler has been shut down
+2024-10-20 01:09:25,349 - INFO - Application.stop() complete
+2024-10-20 01:09:27,959 - INFO - Бот запущен.
+2024-10-20 01:09:28,043 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-10-20 01:09:28,495 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getMe "HTTP/1.1 200 OK"
+2024-10-20 01:09:28,600 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/deleteWebhook "HTTP/1.1 200 OK"
+2024-10-20 01:09:28,602 - INFO - Added job "send_daily_cards" to job store "default"
+2024-10-20 01:09:28,602 - INFO - Scheduler started
+2024-10-20 01:09:28,603 - INFO - Application started
+2024-10-20 01:09:32,233 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:09:32,236 - INFO - Получено сообщение от None (334124671): 🔍 Поиск карты
+2024-10-20 01:09:32,237 - INFO - Пользователь None (334124671) начал поиск карты.
+2024-10-20 01:09:32,368 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendMessage "HTTP/1.1 200 OK"
+2024-10-20 01:09:33,393 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:09:33,506 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:09:33,627 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageText "HTTP/1.1 200 OK"
+2024-10-20 01:09:43,503 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:09:53,596 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:10:03,689 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:10:13,787 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:10:23,902 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:10:34,034 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:10:44,128 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:10:54,228 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:11:04,332 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:11:14,429 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:11:24,527 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:11:34,624 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:11:44,725 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:11:54,817 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:12:04,924 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:12:15,018 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:12:25,118 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:12:35,234 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:12:45,426 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:12:55,525 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:13:05,619 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:13:15,744 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:13:25,837 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:13:30,104 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:13:30,105 - INFO - Application is stopping. This might take a moment.
+2024-10-20 01:13:30,106 - INFO - Scheduler has been shut down
+2024-10-20 01:13:30,106 - INFO - Application.stop() complete
+2024-10-20 01:13:33,355 - INFO - Бот запущен.
+2024-10-20 01:13:33,445 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-10-20 01:13:33,889 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getMe "HTTP/1.1 200 OK"
+2024-10-20 01:13:33,996 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/deleteWebhook "HTTP/1.1 200 OK"
+2024-10-20 01:13:33,998 - INFO - Added job "send_daily_cards" to job store "default"
+2024-10-20 01:13:33,998 - INFO - Scheduler started
+2024-10-20 01:13:33,998 - INFO - Application started
+2024-10-20 01:13:35,084 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:13:35,086 - INFO - Получено сообщение от None (334124671): 🔍 Поиск карты
+2024-10-20 01:13:35,089 - INFO - Пользователь None (334124671) начал поиск карты.
+2024-10-20 01:13:35,217 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendMessage "HTTP/1.1 200 OK"
+2024-10-20 01:13:36,244 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:13:36,386 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:13:36,520 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageText "HTTP/1.1 200 OK"
+2024-10-20 01:13:39,185 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:13:40,739 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:13:40,857 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:13:40,858 - INFO - Пользователь None (334124671) вызвал команду /start.
+2024-10-20 01:13:41,020 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendMessage "HTTP/1.1 200 OK"
+2024-10-20 01:13:42,179 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:13:42,180 - INFO - Получено сообщение от None (334124671): 🔍 Поиск карты
+2024-10-20 01:13:42,181 - INFO - Пользователь None (334124671) начал поиск карты.
+2024-10-20 01:13:42,303 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendMessage "HTTP/1.1 200 OK"
+2024-10-20 01:13:43,216 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:13:43,354 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:13:43,520 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageText "HTTP/1.1 200 OK"
+2024-10-20 01:13:45,645 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:13:45,646 - INFO - Получено сообщение от None (334124671): 🔍 Поиск карты
+2024-10-20 01:13:45,646 - INFO - Пользователь None (334124671) начал поиск карты.
+2024-10-20 01:13:45,779 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendMessage "HTTP/1.1 200 OK"
+2024-10-20 01:13:47,120 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:13:47,240 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:13:47,352 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageText "HTTP/1.1 200 OK"
+2024-10-20 01:13:57,222 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:14:07,323 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:14:17,486 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:14:27,607 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:14:37,720 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:14:47,824 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:14:57,937 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:15:08,054 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:15:18,154 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:15:28,255 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:15:38,352 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:15:48,458 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:15:58,560 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:16:08,657 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:16:18,756 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:16:28,868 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:16:38,985 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:16:49,087 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:16:59,207 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:17:09,105 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:17:09,106 - INFO - Application is stopping. This might take a moment.
+2024-10-20 01:17:09,107 - INFO - Scheduler has been shut down
+2024-10-20 01:17:09,107 - INFO - Application.stop() complete
+2024-10-20 01:17:11,811 - INFO - Бот запущен.
+2024-10-20 01:17:11,895 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-10-20 01:17:12,362 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getMe "HTTP/1.1 200 OK"
+2024-10-20 01:17:12,461 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/deleteWebhook "HTTP/1.1 200 OK"
+2024-10-20 01:17:12,463 - INFO - Added job "send_daily_cards" to job store "default"
+2024-10-20 01:17:12,463 - INFO - Scheduler started
+2024-10-20 01:17:12,465 - INFO - Application started
+2024-10-20 01:17:14,939 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:17:14,940 - INFO - Получено сообщение от None (334124671): 🔍 Поиск карты
+2024-10-20 01:17:14,940 - INFO - Пользователь None (334124671) начал поиск карты.
+2024-10-20 01:17:15,125 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendMessage "HTTP/1.1 200 OK"
+2024-10-20 01:17:16,175 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:17:16,288 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:17:16,411 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageText "HTTP/1.1 200 OK"
+2024-10-20 01:17:17,576 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:17:17,743 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:17:17,885 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageText "HTTP/1.1 200 OK"
+2024-10-20 01:17:27,763 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:17:37,860 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:17:47,962 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:17:58,062 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:18:08,170 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:18:18,270 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:18:28,382 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:18:32,362 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:18:32,363 - INFO - Application is stopping. This might take a moment.
+2024-10-20 01:18:32,364 - INFO - Scheduler has been shut down
+2024-10-20 01:18:32,364 - INFO - Application.stop() complete
+2024-10-20 01:18:35,551 - INFO - Бот запущен.
+2024-10-20 01:18:35,641 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-10-20 01:18:36,120 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getMe "HTTP/1.1 200 OK"
+2024-10-20 01:18:36,221 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/deleteWebhook "HTTP/1.1 200 OK"
+2024-10-20 01:18:36,223 - INFO - Added job "send_daily_cards" to job store "default"
+2024-10-20 01:18:36,223 - INFO - Scheduler started
+2024-10-20 01:18:36,223 - INFO - Application started
+2024-10-20 01:18:39,727 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:18:39,729 - INFO - Получено сообщение от None (334124671): 🔍 Поиск карты
+2024-10-20 01:18:39,730 - INFO - Пользователь None (334124671) начал поиск карты.
+2024-10-20 01:18:39,864 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendMessage "HTTP/1.1 200 OK"
+2024-10-20 01:18:40,622 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:18:40,731 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:18:40,853 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageText "HTTP/1.1 200 OK"
+2024-10-20 01:18:41,648 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:18:41,801 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:18:41,973 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageText "HTTP/1.1 200 OK"
+2024-10-20 01:18:51,750 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:19:01,873 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:19:11,974 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:19:22,073 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:19:32,172 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:19:42,272 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:19:52,380 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:20:02,502 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:20:12,603 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:20:22,704 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:20:32,821 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:20:43,719 - ERROR - Error while calling `get_updates` one more time to mark all fetched updates as read: %s. Suppressing error to ensure graceful shutdown. When polling for updates is restarted, updates may be fetched again. Please adjust timeouts via `ApplicationBuilder` or the parameter `get_updates_request` of `Bot`.
+Traceback (most recent call last):
+  File "C:\Users\admin\Desktop\БОТЫ\qwerty2\venv\Lib\site-packages\httpx\_transports\default.py", line 72, in map_httpcore_exceptions
+    yield
+  File "C:\Users\admin\Desktop\БОТЫ\qwerty2\venv\Lib\site-packages\httpx\_transports\default.py", line 377, in handle_async_request
+    resp = await self._pool.handle_async_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\Desktop\БОТЫ\qwerty2\venv\Lib\site-packages\httpcore\_async\connection_pool.py", line 216, in handle_async_request
+    raise exc from None
+  File "C:\Users\admin\Desktop\БОТЫ\qwerty2\venv\Lib\site-packages\httpcore\_async\connection_pool.py", line 196, in handle_async_request
+    response = await connection.handle_async_request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\Desktop\БОТЫ\qwerty2\venv\Lib\site-packages\httpcore\_async\connection.py", line 99, in handle_async_request
+    raise exc
+  File "C:\Users\admin\Desktop\БОТЫ\qwerty2\venv\Lib\site-packages\httpcore\_async\connection.py", line 76, in handle_async_request
+    stream = await self._connect(request)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\Desktop\БОТЫ\qwerty2\venv\Lib\site-packages\httpcore\_async\connection.py", line 122, in _connect
+    stream = await self._network_backend.connect_tcp(**kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\Desktop\БОТЫ\qwerty2\venv\Lib\site-packages\httpcore\_backends\auto.py", line 30, in connect_tcp
+    return await self._backend.connect_tcp(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\Desktop\БОТЫ\qwerty2\venv\Lib\site-packages\httpcore\_backends\anyio.py", line 115, in connect_tcp
+    with map_exceptions(exc_map):
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\admin\Desktop\БОТЫ\qwerty2\venv\Lib\site-packages\httpcore\_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ConnectTimeout
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\admin\Desktop\БОТЫ\qwerty2\venv\Lib\site-packages\telegram\request\_httpxrequest.py", line 292, in do_request
+    res = await self._client.request(
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\Desktop\БОТЫ\qwerty2\venv\Lib\site-packages\httpx\_client.py", line 1585, in request
+    return await self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\Desktop\БОТЫ\qwerty2\venv\Lib\site-packages\httpx\_client.py", line 1674, in send
+    response = await self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\Desktop\БОТЫ\qwerty2\venv\Lib\site-packages\httpx\_client.py", line 1702, in _send_handling_auth
+    response = await self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\Desktop\БОТЫ\qwerty2\venv\Lib\site-packages\httpx\_client.py", line 1739, in _send_handling_redirects
+    response = await self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\Desktop\БОТЫ\qwerty2\venv\Lib\site-packages\httpx\_client.py", line 1776, in _send_single_request
+    response = await transport.handle_async_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\Desktop\БОТЫ\qwerty2\venv\Lib\site-packages\httpx\_transports\default.py", line 376, in handle_async_request
+    with map_httpcore_exceptions():
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\admin\Desktop\БОТЫ\qwerty2\venv\Lib\site-packages\httpx\_transports\default.py", line 89, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ConnectTimeout
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\admin\Desktop\БОТЫ\qwerty2\venv\Lib\site-packages\telegram\ext\_updater.py", line 438, in _get_updates_cleanup
+    await self.bot.get_updates(
+  File "C:\Users\admin\Desktop\БОТЫ\qwerty2\venv\Lib\site-packages\telegram\ext\_extbot.py", line 649, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\Desktop\БОТЫ\qwerty2\venv\Lib\site-packages\telegram\_bot.py", line 4366, in get_updates
+    await self._post(
+  File "C:\Users\admin\Desktop\БОТЫ\qwerty2\venv\Lib\site-packages\telegram\_bot.py", line 623, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\Desktop\БОТЫ\qwerty2\venv\Lib\site-packages\telegram\ext\_extbot.py", line 355, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\Desktop\БОТЫ\qwerty2\venv\Lib\site-packages\telegram\_bot.py", line 652, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\Desktop\БОТЫ\qwerty2\venv\Lib\site-packages\telegram\request\_baserequest.py", line 201, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\Desktop\БОТЫ\qwerty2\venv\Lib\site-packages\telegram\request\_baserequest.py", line 333, in _request_wrapper
+    code, payload = await self.do_request(
+                    ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\Desktop\БОТЫ\qwerty2\venv\Lib\site-packages\telegram\request\_httpxrequest.py", line 309, in do_request
+    raise TimedOut from err
+telegram.error.TimedOut: Timed out
+2024-10-20 01:20:43,761 - INFO - Application is stopping. This might take a moment.
+2024-10-20 01:20:43,764 - INFO - Scheduler has been shut down
+2024-10-20 01:20:43,764 - INFO - Application.stop() complete
+2024-10-20 01:20:52,332 - INFO - Бот запущен.
+2024-10-20 01:20:52,416 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-10-20 01:20:52,839 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getMe "HTTP/1.1 200 OK"
+2024-10-20 01:20:52,929 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/deleteWebhook "HTTP/1.1 200 OK"
+2024-10-20 01:20:52,931 - INFO - Added job "send_daily_cards" to job store "default"
+2024-10-20 01:20:52,931 - INFO - Scheduler started
+2024-10-20 01:20:52,931 - INFO - Application started
+2024-10-20 01:20:55,760 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:20:55,761 - INFO - Получено сообщение от None (334124671): 🔍 Поиск карты
+2024-10-20 01:20:55,762 - INFO - Пользователь None (334124671) начал поиск карты.
+2024-10-20 01:20:55,871 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendMessage "HTTP/1.1 200 OK"
+2024-10-20 01:20:56,693 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:20:56,802 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:20:56,917 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageText "HTTP/1.1 200 OK"
+2024-10-20 01:20:57,624 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:20:57,727 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:20:58,078 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendPhoto "HTTP/1.1 200 OK"
+2024-10-20 01:20:58,178 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageReplyMarkup "HTTP/1.1 400 Bad Request"
+2024-10-20 01:20:58,179 - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\admin\Desktop\БОТЫ\qwerty2\venv\Lib\site-packages\telegram\ext\_application.py", line 1335, in process_update
+    await coroutine
+  File "C:\Users\admin\Desktop\БОТЫ\qwerty2\venv\Lib\site-packages\telegram\ext\_handlers\basehandler.py", line 158, in handle_update
+    return await self.callback(update, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\Desktop\БОТЫ\qwerty2\card_search.py", line 109, in handle_card_selection
+    await query.edit_message_reply_markup(reply_markup=reply_markup)
+  File "C:\Users\admin\Desktop\БОТЫ\qwerty2\venv\Lib\site-packages\telegram\_callbackquery.py", line 400, in edit_message_reply_markup
+    return await self._get_message().edit_reply_markup(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\Desktop\БОТЫ\qwerty2\venv\Lib\site-packages\telegram\_message.py", line 3817, in edit_reply_markup
+    return await self.get_bot().edit_message_reply_markup(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\Desktop\БОТЫ\qwerty2\venv\Lib\site-packages\telegram\ext\_extbot.py", line 1631, in edit_message_reply_markup
+    return await super().edit_message_reply_markup(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\Desktop\БОТЫ\qwerty2\venv\Lib\site-packages\telegram\_bot.py", line 4259, in edit_message_reply_markup
+    return await self._send_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\Desktop\БОТЫ\qwerty2\venv\Lib\site-packages\telegram\ext\_extbot.py", line 610, in _send_message
+    result = await super()._send_message(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\Desktop\БОТЫ\qwerty2\venv\Lib\site-packages\telegram\_bot.py", line 745, in _send_message
+    result = await self._post(
+             ^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\Desktop\БОТЫ\qwerty2\venv\Lib\site-packages\telegram\_bot.py", line 623, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\Desktop\БОТЫ\qwerty2\venv\Lib\site-packages\telegram\ext\_extbot.py", line 355, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\Desktop\БОТЫ\qwerty2\venv\Lib\site-packages\telegram\_bot.py", line 652, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\Desktop\БОТЫ\qwerty2\venv\Lib\site-packages\telegram\request\_baserequest.py", line 201, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\Desktop\БОТЫ\qwerty2\venv\Lib\site-packages\telegram\request\_baserequest.py", line 382, in _request_wrapper
+    raise BadRequest(message)
+telegram.error.BadRequest: Message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2024-10-20 01:21:00,675 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:21:00,773 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:21:01,047 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendPhoto "HTTP/1.1 200 OK"
+2024-10-20 01:21:01,152 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageReplyMarkup "HTTP/1.1 400 Bad Request"
+2024-10-20 01:21:01,153 - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\admin\Desktop\БОТЫ\qwerty2\venv\Lib\site-packages\telegram\ext\_application.py", line 1335, in process_update
+    await coroutine
+  File "C:\Users\admin\Desktop\БОТЫ\qwerty2\venv\Lib\site-packages\telegram\ext\_handlers\basehandler.py", line 158, in handle_update
+    return await self.callback(update, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\Desktop\БОТЫ\qwerty2\card_search.py", line 109, in handle_card_selection
+    await query.edit_message_reply_markup(reply_markup=reply_markup)
+  File "C:\Users\admin\Desktop\БОТЫ\qwerty2\venv\Lib\site-packages\telegram\_callbackquery.py", line 400, in edit_message_reply_markup
+    return await self._get_message().edit_reply_markup(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\Desktop\БОТЫ\qwerty2\venv\Lib\site-packages\telegram\_message.py", line 3817, in edit_reply_markup
+    return await self.get_bot().edit_message_reply_markup(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\Desktop\БОТЫ\qwerty2\venv\Lib\site-packages\telegram\ext\_extbot.py", line 1631, in edit_message_reply_markup
+    return await super().edit_message_reply_markup(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\Desktop\БОТЫ\qwerty2\venv\Lib\site-packages\telegram\_bot.py", line 4259, in edit_message_reply_markup
+    return await self._send_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\Desktop\БОТЫ\qwerty2\venv\Lib\site-packages\telegram\ext\_extbot.py", line 610, in _send_message
+    result = await super()._send_message(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\Desktop\БОТЫ\qwerty2\venv\Lib\site-packages\telegram\_bot.py", line 745, in _send_message
+    result = await self._post(
+             ^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\Desktop\БОТЫ\qwerty2\venv\Lib\site-packages\telegram\_bot.py", line 623, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\Desktop\БОТЫ\qwerty2\venv\Lib\site-packages\telegram\ext\_extbot.py", line 355, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\Desktop\БОТЫ\qwerty2\venv\Lib\site-packages\telegram\_bot.py", line 652, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\Desktop\БОТЫ\qwerty2\venv\Lib\site-packages\telegram\request\_baserequest.py", line 201, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\Desktop\БОТЫ\qwerty2\venv\Lib\site-packages\telegram\request\_baserequest.py", line 382, in _request_wrapper
+    raise BadRequest(message)
+telegram.error.BadRequest: Message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2024-10-20 01:21:10,814 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:21:20,935 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:21:31,027 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:21:41,123 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:21:51,222 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:22:01,319 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:22:11,453 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:22:21,565 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:22:31,672 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:22:41,773 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:22:51,871 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:23:01,311 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:23:01,312 - INFO - Application is stopping. This might take a moment.
+2024-10-20 01:23:01,313 - INFO - Scheduler has been shut down
+2024-10-20 01:23:01,313 - INFO - Application.stop() complete
+2024-10-20 01:23:04,766 - INFO - Бот запущен.
+2024-10-20 01:23:04,861 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-10-20 01:23:05,352 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getMe "HTTP/1.1 200 OK"
+2024-10-20 01:23:05,450 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/deleteWebhook "HTTP/1.1 200 OK"
+2024-10-20 01:23:05,453 - INFO - Added job "send_daily_cards" to job store "default"
+2024-10-20 01:23:05,453 - INFO - Scheduler started
+2024-10-20 01:23:05,454 - INFO - Application started
+2024-10-20 01:23:05,818 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:23:05,820 - INFO - Получено сообщение от None (334124671): 🔍 Поиск карты
+2024-10-20 01:23:05,820 - INFO - Пользователь None (334124671) начал поиск карты.
+2024-10-20 01:23:05,960 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendMessage "HTTP/1.1 200 OK"
+2024-10-20 01:23:06,762 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:23:06,870 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:23:06,981 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageText "HTTP/1.1 200 OK"
+2024-10-20 01:23:16,859 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:23:26,950 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:23:37,043 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:23:47,138 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:23:57,232 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:24:07,325 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:24:17,428 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:24:27,521 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:24:37,619 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:24:47,713 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:24:51,902 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:24:51,903 - INFO - Application is stopping. This might take a moment.
+2024-10-20 01:24:51,903 - INFO - Scheduler has been shut down
+2024-10-20 01:24:51,904 - INFO - Application.stop() complete
+2024-10-20 01:24:54,829 - INFO - Бот запущен.
+2024-10-20 01:24:54,921 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-10-20 01:24:55,355 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getMe "HTTP/1.1 200 OK"
+2024-10-20 01:24:55,451 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/deleteWebhook "HTTP/1.1 200 OK"
+2024-10-20 01:24:55,452 - INFO - Added job "send_daily_cards" to job store "default"
+2024-10-20 01:24:55,453 - INFO - Scheduler started
+2024-10-20 01:24:55,453 - INFO - Application started
+2024-10-20 01:24:58,470 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:24:58,471 - INFO - Получено сообщение от None (334124671): 🔍 Поиск карты
+2024-10-20 01:24:58,471 - INFO - Пользователь None (334124671) начал поиск карты.
+2024-10-20 01:24:58,585 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendMessage "HTTP/1.1 200 OK"
+2024-10-20 01:24:59,575 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:24:59,678 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:24:59,787 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageText "HTTP/1.1 200 OK"
+2024-10-20 01:25:09,680 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:25:19,784 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:25:29,889 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:25:40,022 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:25:50,124 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:26:00,230 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:26:10,341 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:26:20,446 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:26:28,968 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:26:28,969 - INFO - Application is stopping. This might take a moment.
+2024-10-20 01:26:28,970 - INFO - Scheduler has been shut down
+2024-10-20 01:26:28,970 - INFO - Application.stop() complete
+2024-10-20 01:26:32,389 - INFO - Бот запущен.
+2024-10-20 01:26:32,470 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-10-20 01:26:32,915 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getMe "HTTP/1.1 200 OK"
+2024-10-20 01:26:33,020 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/deleteWebhook "HTTP/1.1 200 OK"
+2024-10-20 01:26:33,022 - INFO - Added job "send_daily_cards" to job store "default"
+2024-10-20 01:26:33,022 - INFO - Scheduler started
+2024-10-20 01:26:33,024 - INFO - Application started
+2024-10-20 01:26:33,955 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:26:33,956 - INFO - Получено сообщение от None (334124671): 🔍 Поиск карты
+2024-10-20 01:26:33,956 - INFO - Пользователь None (334124671) начал поиск карты.
+2024-10-20 01:26:34,115 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendMessage "HTTP/1.1 200 OK"
+2024-10-20 01:26:34,789 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:26:34,898 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:26:35,036 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageText "HTTP/1.1 200 OK"
+2024-10-20 01:26:37,034 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:26:43,056 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:26:43,441 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:26:43,554 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageText "HTTP/1.1 200 OK"
+2024-10-20 01:26:45,521 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:26:45,523 - INFO - Получено сообщение от None (334124671): 🔍 Поиск карты
+2024-10-20 01:26:45,524 - INFO - Пользователь None (334124671) начал поиск карты.
+2024-10-20 01:26:45,640 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendMessage "HTTP/1.1 200 OK"
+2024-10-20 01:26:46,604 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:26:46,718 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:26:46,834 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageText "HTTP/1.1 200 OK"
+2024-10-20 01:26:47,646 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:26:47,761 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:26:47,878 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageText "HTTP/1.1 200 OK"
+2024-10-20 01:26:57,745 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:27:07,849 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:27:17,939 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:27:28,078 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:27:38,168 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:27:48,286 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:27:53,217 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:27:53,218 - INFO - Application is stopping. This might take a moment.
+2024-10-20 01:27:53,218 - INFO - Scheduler has been shut down
+2024-10-20 01:27:53,219 - INFO - Application.stop() complete
+2024-10-20 01:27:55,941 - INFO - Бот запущен.
+2024-10-20 01:27:56,026 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-10-20 01:27:56,432 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getMe "HTTP/1.1 200 OK"
+2024-10-20 01:27:56,527 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/deleteWebhook "HTTP/1.1 200 OK"
+2024-10-20 01:27:56,529 - INFO - Added job "send_daily_cards" to job store "default"
+2024-10-20 01:27:56,529 - INFO - Scheduler started
+2024-10-20 01:27:56,530 - INFO - Application started
+2024-10-20 01:27:57,009 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:27:57,010 - INFO - Получено сообщение от None (334124671): 🔍 Поиск карты
+2024-10-20 01:27:57,010 - INFO - Пользователь None (334124671) начал поиск карты.
+2024-10-20 01:27:57,157 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendMessage "HTTP/1.1 200 OK"
+2024-10-20 01:27:57,898 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:27:58,008 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:27:58,131 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageText "HTTP/1.1 200 OK"
+2024-10-20 01:27:58,822 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:27:58,930 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:27:59,045 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageText "HTTP/1.1 200 OK"
+2024-10-20 01:28:08,937 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:28:16,237 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:28:16,237 - INFO - Application is stopping. This might take a moment.
+2024-10-20 01:28:16,238 - INFO - Scheduler has been shut down
+2024-10-20 01:28:16,238 - INFO - Application.stop() complete
+2024-10-20 01:28:19,096 - INFO - Бот запущен.
+2024-10-20 01:28:19,179 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-10-20 01:28:19,602 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getMe "HTTP/1.1 200 OK"
+2024-10-20 01:28:19,697 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/deleteWebhook "HTTP/1.1 200 OK"
+2024-10-20 01:28:19,699 - INFO - Added job "send_daily_cards" to job store "default"
+2024-10-20 01:28:19,699 - INFO - Scheduler started
+2024-10-20 01:28:19,699 - INFO - Application started
+2024-10-20 01:28:20,471 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:28:20,472 - INFO - Получено сообщение от None (334124671): 🔍 Поиск карты
+2024-10-20 01:28:20,473 - INFO - Пользователь None (334124671) начал поиск карты.
+2024-10-20 01:28:20,582 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendMessage "HTTP/1.1 200 OK"
+2024-10-20 01:28:21,399 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:28:21,506 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:28:21,629 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageText "HTTP/1.1 200 OK"
+2024-10-20 01:28:22,361 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:28:22,459 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:28:22,567 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageText "HTTP/1.1 200 OK"
+2024-10-20 01:28:32,780 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:28:32,780 - INFO - Application is stopping. This might take a moment.
+2024-10-20 01:28:32,782 - INFO - Scheduler has been shut down
+2024-10-20 01:28:32,782 - INFO - Application.stop() complete
+2024-10-20 01:28:34,995 - INFO - Бот запущен.
+2024-10-20 01:28:35,091 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-10-20 01:28:35,562 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getMe "HTTP/1.1 200 OK"
+2024-10-20 01:28:35,666 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/deleteWebhook "HTTP/1.1 200 OK"
+2024-10-20 01:28:35,667 - INFO - Added job "send_daily_cards" to job store "default"
+2024-10-20 01:28:35,668 - INFO - Scheduler started
+2024-10-20 01:28:35,668 - INFO - Application started
+2024-10-20 01:28:36,368 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:28:36,369 - INFO - Получено сообщение от None (334124671): 🔍 Поиск карты
+2024-10-20 01:28:36,370 - INFO - Пользователь None (334124671) начал поиск карты.
+2024-10-20 01:28:36,499 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendMessage "HTTP/1.1 200 OK"
+2024-10-20 01:28:37,120 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:28:37,236 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:28:37,348 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageText "HTTP/1.1 200 OK"
+2024-10-20 01:28:39,361 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:28:39,470 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:28:39,589 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/deleteMessage "HTTP/1.1 200 OK"
+2024-10-20 01:28:39,993 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendPhoto "HTTP/1.1 200 OK"
+2024-10-20 01:28:40,143 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendMessage "HTTP/1.1 200 OK"
+2024-10-20 01:28:46,501 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:28:46,895 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:28:47,020 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/deleteMessage "HTTP/1.1 200 OK"
+2024-10-20 01:28:47,303 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendPhoto "HTTP/1.1 200 OK"
+2024-10-20 01:28:47,427 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendMessage "HTTP/1.1 200 OK"
+2024-10-20 01:28:56,606 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:29:06,705 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:29:16,808 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:29:26,931 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:29:37,030 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:29:47,129 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:29:57,234 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:30:07,349 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:30:17,458 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:30:27,562 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:30:37,662 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:30:47,762 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:30:57,862 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:31:07,964 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:31:18,063 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:31:28,162 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:31:38,261 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:31:48,367 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:31:58,465 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:32:08,568 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:32:18,667 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:32:28,795 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:32:38,904 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:32:49,023 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:32:56,958 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:32:56,959 - INFO - Application is stopping. This might take a moment.
+2024-10-20 01:32:56,960 - INFO - Scheduler has been shut down
+2024-10-20 01:32:56,960 - INFO - Application.stop() complete
+2024-10-20 01:32:59,341 - INFO - Бот запущен.
+2024-10-20 01:32:59,427 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-10-20 01:32:59,829 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getMe "HTTP/1.1 200 OK"
+2024-10-20 01:32:59,922 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/deleteWebhook "HTTP/1.1 200 OK"
+2024-10-20 01:32:59,924 - INFO - Added job "send_daily_cards" to job store "default"
+2024-10-20 01:32:59,924 - INFO - Scheduler started
+2024-10-20 01:32:59,925 - INFO - Application started
+2024-10-20 01:33:02,152 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:33:02,153 - INFO - Получено сообщение от None (334124671): 🔍 Поиск карты
+2024-10-20 01:33:02,154 - INFO - Пользователь None (334124671) начал поиск карты.
+2024-10-20 01:33:02,283 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendMessage "HTTP/1.1 200 OK"
+2024-10-20 01:33:03,176 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:33:03,276 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:33:03,390 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageText "HTTP/1.1 200 OK"
+2024-10-20 01:33:05,182 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:33:15,284 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:33:25,389 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:33:35,488 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:33:45,612 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:33:55,754 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:34:05,902 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:34:16,000 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:34:26,110 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:34:36,209 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:34:46,318 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:34:56,418 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:35:06,517 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:35:16,618 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:35:26,724 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:35:36,836 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:35:46,943 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:35:50,658 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:35:50,658 - INFO - Application is stopping. This might take a moment.
+2024-10-20 01:35:50,661 - INFO - Scheduler has been shut down
+2024-10-20 01:35:50,661 - INFO - Application.stop() complete
+2024-10-20 01:35:53,192 - INFO - Бот запущен.
+2024-10-20 01:35:53,274 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-10-20 01:35:53,705 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getMe "HTTP/1.1 200 OK"
+2024-10-20 01:35:53,802 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/deleteWebhook "HTTP/1.1 200 OK"
+2024-10-20 01:35:53,804 - INFO - Added job "send_daily_cards" to job store "default"
+2024-10-20 01:35:53,804 - INFO - Scheduler started
+2024-10-20 01:35:53,805 - INFO - Application started
+2024-10-20 01:35:54,938 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:35:54,941 - INFO - Получено сообщение от None (334124671): 🔍 Поиск карты
+2024-10-20 01:35:54,941 - INFO - Пользователь None (334124671) начал поиск карты.
+2024-10-20 01:35:55,099 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendMessage "HTTP/1.1 200 OK"
+2024-10-20 01:35:56,002 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:35:56,116 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:35:56,251 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageText "HTTP/1.1 200 OK"
+2024-10-20 01:36:06,098 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:36:16,210 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:36:26,305 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:36:36,401 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:36:46,496 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:36:52,570 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:36:52,571 - INFO - Application is stopping. This might take a moment.
+2024-10-20 01:36:52,572 - INFO - Scheduler has been shut down
+2024-10-20 01:36:52,572 - INFO - Application.stop() complete
+2024-10-20 01:36:55,056 - INFO - Бот запущен.
+2024-10-20 01:36:55,137 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-10-20 01:36:55,586 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getMe "HTTP/1.1 200 OK"
+2024-10-20 01:36:55,688 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/deleteWebhook "HTTP/1.1 200 OK"
+2024-10-20 01:36:55,690 - INFO - Added job "send_daily_cards" to job store "default"
+2024-10-20 01:36:55,691 - INFO - Scheduler started
+2024-10-20 01:36:55,691 - INFO - Application started
+2024-10-20 01:36:56,970 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:36:56,971 - INFO - Получено сообщение от None (334124671): 🔍 Поиск карты
+2024-10-20 01:36:56,972 - INFO - Пользователь None (334124671) начал поиск карты.
+2024-10-20 01:36:57,100 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendMessage "HTTP/1.1 200 OK"
+2024-10-20 01:36:58,158 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:36:58,269 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:36:58,465 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageText "HTTP/1.1 200 OK"
+2024-10-20 01:36:59,964 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:37:00,068 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:37:00,194 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/deleteMessage "HTTP/1.1 200 OK"
+2024-10-20 01:37:00,578 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendPhoto "HTTP/1.1 200 OK"
+2024-10-20 01:37:03,595 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:37:05,509 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:37:05,612 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:37:05,854 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/deleteMessage "HTTP/1.1 200 OK"
+2024-10-20 01:37:06,103 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendPhoto "HTTP/1.1 200 OK"
+2024-10-20 01:37:15,618 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:37:25,724 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:37:35,829 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:37:45,931 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:37:56,037 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:38:06,149 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:38:16,254 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:38:26,361 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:38:36,465 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:38:46,622 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:38:56,743 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:39:06,859 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:39:17,016 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:39:21,530 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:39:21,531 - INFO - Application is stopping. This might take a moment.
+2024-10-20 01:39:21,532 - INFO - Scheduler has been shut down
+2024-10-20 01:39:21,533 - INFO - Application.stop() complete
+2024-10-20 01:39:24,506 - INFO - Бот запущен.
+2024-10-20 01:39:24,595 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-10-20 01:39:25,047 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getMe "HTTP/1.1 200 OK"
+2024-10-20 01:39:25,162 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/deleteWebhook "HTTP/1.1 200 OK"
+2024-10-20 01:39:25,164 - INFO - Added job "send_daily_cards" to job store "default"
+2024-10-20 01:39:25,164 - INFO - Scheduler started
+2024-10-20 01:39:25,164 - INFO - Application started
+2024-10-20 01:39:26,279 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:39:26,281 - INFO - Получено сообщение от None (334124671): 🔍 Поиск карты
+2024-10-20 01:39:26,281 - INFO - Пользователь None (334124671) начал поиск карты.
+2024-10-20 01:39:26,400 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendMessage "HTTP/1.1 200 OK"
+2024-10-20 01:39:27,329 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:39:27,453 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:39:27,567 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageText "HTTP/1.1 200 OK"
+2024-10-20 01:39:29,605 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:39:30,575 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:39:30,683 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:39:30,796 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/deleteMessage "HTTP/1.1 200 OK"
+2024-10-20 01:39:31,101 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendPhoto "HTTP/1.1 200 OK"
+2024-10-20 01:39:32,144 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:39:32,292 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:39:32,397 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/deleteMessage "HTTP/1.1 200 OK"
+2024-10-20 01:39:32,601 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendPhoto "HTTP/1.1 200 OK"
+2024-10-20 01:39:34,241 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:39:34,392 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:39:34,544 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/deleteMessage "HTTP/1.1 200 OK"
+2024-10-20 01:39:34,830 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendPhoto "HTTP/1.1 200 OK"
+2024-10-20 01:39:36,800 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:39:46,944 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:39:57,041 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:40:02,750 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:40:02,751 - INFO - Application is stopping. This might take a moment.
+2024-10-20 01:40:02,752 - INFO - Scheduler has been shut down
+2024-10-20 01:40:02,753 - INFO - Application.stop() complete
+2024-10-20 01:40:05,681 - INFO - Бот запущен.
+2024-10-20 01:40:05,770 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-10-20 01:40:06,214 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getMe "HTTP/1.1 200 OK"
+2024-10-20 01:40:06,317 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/deleteWebhook "HTTP/1.1 200 OK"
+2024-10-20 01:40:06,319 - INFO - Added job "send_daily_cards" to job store "default"
+2024-10-20 01:40:06,319 - INFO - Scheduler started
+2024-10-20 01:40:06,319 - INFO - Application started
+2024-10-20 01:40:06,905 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:40:06,906 - INFO - Получено сообщение от None (334124671): 🔍 Поиск карты
+2024-10-20 01:40:06,906 - INFO - Пользователь None (334124671) начал поиск карты.
+2024-10-20 01:40:07,033 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendMessage "HTTP/1.1 200 OK"
+2024-10-20 01:40:08,195 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:40:08,304 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:40:08,454 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageText "HTTP/1.1 200 OK"
+2024-10-20 01:40:09,600 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:40:09,709 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:40:09,845 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageText "HTTP/1.1 200 OK"
+2024-10-20 01:40:12,659 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:40:12,660 - INFO - Получено сообщение от None (334124671): 🔍 Поиск карты
+2024-10-20 01:40:12,660 - INFO - Пользователь None (334124671) начал поиск карты.
+2024-10-20 01:40:12,789 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendMessage "HTTP/1.1 200 OK"
+2024-10-20 01:40:14,633 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:40:14,741 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:40:14,858 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageText "HTTP/1.1 200 OK"
+2024-10-20 01:40:24,735 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:40:34,842 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:40:44,974 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:40:55,092 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:41:05,199 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:41:15,301 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:41:25,409 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:41:35,519 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:41:45,621 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:41:55,724 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:42:00,066 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:42:00,067 - INFO - Application is stopping. This might take a moment.
+2024-10-20 01:42:00,068 - INFO - Scheduler has been shut down
+2024-10-20 01:42:00,068 - INFO - Application.stop() complete
+2024-10-20 01:42:02,582 - INFO - Бот запущен.
+2024-10-20 01:42:02,667 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-10-20 01:42:03,087 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getMe "HTTP/1.1 200 OK"
+2024-10-20 01:42:03,194 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/deleteWebhook "HTTP/1.1 200 OK"
+2024-10-20 01:42:03,196 - INFO - Added job "send_daily_cards" to job store "default"
+2024-10-20 01:42:03,196 - INFO - Scheduler started
+2024-10-20 01:42:03,197 - INFO - Application started
+2024-10-20 01:42:06,389 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:42:06,391 - INFO - Получено сообщение от None (334124671): 🔍 Поиск карты
+2024-10-20 01:42:06,391 - INFO - Пользователь None (334124671) начал поиск карты.
+2024-10-20 01:42:06,503 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendMessage "HTTP/1.1 200 OK"
+2024-10-20 01:42:07,396 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:42:07,504 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:42:07,651 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageText "HTTP/1.1 200 OK"
+2024-10-20 01:42:08,819 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:42:08,928 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:42:09,196 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendPhoto "HTTP/1.1 200 OK"
+2024-10-20 01:42:09,307 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageReplyMarkup "HTTP/1.1 200 OK"
+2024-10-20 01:42:12,892 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:42:12,894 - INFO - Получено сообщение от None (334124671): 🔍 Поиск карты
+2024-10-20 01:42:12,894 - INFO - Пользователь None (334124671) начал поиск карты.
+2024-10-20 01:42:13,020 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendMessage "HTTP/1.1 200 OK"
+2024-10-20 01:42:14,209 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:42:14,312 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:42:14,424 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageText "HTTP/1.1 200 OK"
+2024-10-20 01:42:15,511 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:42:15,630 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:42:15,743 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageText "HTTP/1.1 200 OK"
+2024-10-20 01:42:17,851 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:42:17,852 - INFO - Получено сообщение от None (334124671): 🔍 Поиск карты
+2024-10-20 01:42:17,853 - INFO - Пользователь None (334124671) начал поиск карты.
+2024-10-20 01:42:17,967 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendMessage "HTTP/1.1 200 OK"
+2024-10-20 01:42:19,025 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:42:19,126 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:42:19,237 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageText "HTTP/1.1 200 OK"
+2024-10-20 01:42:20,089 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:42:20,284 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:42:20,452 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageText "HTTP/1.1 200 OK"
+2024-10-20 01:42:21,594 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:42:21,596 - INFO - Получено сообщение от None (334124671): 🔍 Поиск карты
+2024-10-20 01:42:21,596 - INFO - Пользователь None (334124671) начал поиск карты.
+2024-10-20 01:42:21,738 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendMessage "HTTP/1.1 200 OK"
+2024-10-20 01:42:22,644 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:42:22,748 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:42:22,868 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageText "HTTP/1.1 200 OK"
+2024-10-20 01:42:23,702 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:42:23,819 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:42:24,065 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendPhoto "HTTP/1.1 200 OK"
+2024-10-20 01:42:24,182 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageReplyMarkup "HTTP/1.1 200 OK"
+2024-10-20 01:42:25,600 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:42:25,601 - INFO - Получено сообщение от None (334124671): 🔍 Поиск карты
+2024-10-20 01:42:25,601 - INFO - Пользователь None (334124671) начал поиск карты.
+2024-10-20 01:42:25,727 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendMessage "HTTP/1.1 200 OK"
+2024-10-20 01:42:26,817 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:42:26,955 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:42:27,091 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageText "HTTP/1.1 200 OK"
+2024-10-20 01:42:28,241 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:42:28,343 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:42:28,455 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageText "HTTP/1.1 200 OK"
+2024-10-20 01:42:38,343 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:42:48,448 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:42:58,547 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:43:08,666 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:43:18,782 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:43:28,883 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:43:35,159 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:43:35,161 - INFO - Получено сообщение от None (334124671): 🔍 Поиск карты
+2024-10-20 01:43:35,163 - INFO - Пользователь None (334124671) начал поиск карты.
+2024-10-20 01:43:35,568 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendMessage "HTTP/1.1 200 OK"
+2024-10-20 01:43:36,528 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:43:36,700 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:43:36,873 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageText "HTTP/1.1 200 OK"
+2024-10-20 01:43:38,071 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:43:38,186 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:43:38,512 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendPhoto "HTTP/1.1 200 OK"
+2024-10-20 01:43:38,659 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageReplyMarkup "HTTP/1.1 200 OK"
+2024-10-20 01:43:40,382 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:43:40,383 - INFO - Получено сообщение от None (334124671): 🔍 Поиск карты
+2024-10-20 01:43:40,384 - INFO - Пользователь None (334124671) начал поиск карты.
+2024-10-20 01:43:40,540 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendMessage "HTTP/1.1 200 OK"
+2024-10-20 01:43:41,887 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:43:42,004 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:43:42,122 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageText "HTTP/1.1 200 OK"
+2024-10-20 01:43:42,901 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:43:43,033 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:43:43,188 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageText "HTTP/1.1 200 OK"
+2024-10-20 01:43:53,005 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:44:03,104 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:44:13,209 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:44:23,311 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:44:33,420 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:44:43,574 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:44:53,682 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:45:03,795 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:45:13,906 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:45:24,009 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:45:34,115 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:45:44,221 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:45:54,324 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:46:04,442 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:46:14,549 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:46:24,659 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:46:34,761 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:46:44,861 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:46:54,960 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:47:05,078 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:47:15,179 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:47:25,282 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:47:35,383 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:47:45,502 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:47:55,618 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:48:05,723 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:48:15,855 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:48:25,958 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:48:36,078 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:48:46,188 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:48:56,296 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:49:06,403 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:49:16,509 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:49:26,638 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:49:36,762 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:49:46,878 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:49:57,046 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:50:07,165 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:50:17,271 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:50:27,373 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:50:37,509 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:50:47,610 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:50:57,786 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:51:07,886 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:51:17,986 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:51:28,087 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:51:38,190 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:51:48,289 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:51:58,393 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:52:08,495 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:52:17,537 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:52:17,538 - INFO - Application is stopping. This might take a moment.
+2024-10-20 01:52:17,539 - INFO - Scheduler has been shut down
+2024-10-20 01:52:17,539 - INFO - Application.stop() complete
+2024-10-20 01:52:20,866 - INFO - Бот запущен.
+2024-10-20 01:52:20,948 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-10-20 01:52:21,404 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getMe "HTTP/1.1 200 OK"
+2024-10-20 01:52:21,506 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/deleteWebhook "HTTP/1.1 200 OK"
+2024-10-20 01:52:21,507 - INFO - Added job "send_daily_cards" to job store "default"
+2024-10-20 01:52:21,507 - INFO - Scheduler started
+2024-10-20 01:52:21,508 - INFO - Application started
+2024-10-20 01:52:23,413 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:52:23,414 - INFO - Получено сообщение от None (334124671): 🔍 Поиск карты
+2024-10-20 01:52:23,414 - INFO - Пользователь None (334124671) начал поиск карты.
+2024-10-20 01:52:23,653 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendMessage "HTTP/1.1 200 OK"
+2024-10-20 01:52:24,841 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:52:24,961 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:52:25,078 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageText "HTTP/1.1 200 OK"
+2024-10-20 01:52:26,174 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:52:26,285 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:52:26,776 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendPhoto "HTTP/1.1 200 OK"
+2024-10-20 01:52:26,898 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageReplyMarkup "HTTP/1.1 200 OK"
+2024-10-20 01:52:28,836 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:52:28,837 - INFO - Получено сообщение от None (334124671): 🔍 Поиск карты
+2024-10-20 01:52:28,838 - INFO - Пользователь None (334124671) начал поиск карты.
+2024-10-20 01:52:29,042 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendMessage "HTTP/1.1 200 OK"
+2024-10-20 01:52:30,158 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:52:30,337 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:52:30,451 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageText "HTTP/1.1 200 OK"
+2024-10-20 01:52:31,096 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:52:31,284 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:52:31,484 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageText "HTTP/1.1 200 OK"
+2024-10-20 01:52:41,202 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:52:51,301 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:53:01,401 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:53:11,517 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:53:21,616 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:53:29,853 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:53:29,854 - INFO - Получено сообщение от None (334124671): 🔍 Поиск карты
+2024-10-20 01:53:29,854 - INFO - Пользователь None (334124671) начал поиск карты.
+2024-10-20 01:53:30,255 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendMessage "HTTP/1.1 200 OK"
+2024-10-20 01:53:31,856 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:53:31,963 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:53:32,086 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageText "HTTP/1.1 200 OK"
+2024-10-20 01:53:32,927 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:53:33,059 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:53:33,403 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendPhoto "HTTP/1.1 200 OK"
+2024-10-20 01:53:33,538 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageReplyMarkup "HTTP/1.1 200 OK"
+2024-10-20 01:53:34,496 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:53:34,500 - INFO - Получено сообщение от None (334124671): 🔍 Поиск карты
+2024-10-20 01:53:34,502 - INFO - Пользователь None (334124671) начал поиск карты.
+2024-10-20 01:53:34,708 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendMessage "HTTP/1.1 200 OK"
+2024-10-20 01:53:35,893 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:53:35,997 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:53:36,118 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageText "HTTP/1.1 200 OK"
+2024-10-20 01:53:37,399 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:53:37,505 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:53:37,762 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendPhoto "HTTP/1.1 200 OK"
+2024-10-20 01:53:37,876 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageReplyMarkup "HTTP/1.1 200 OK"
+2024-10-20 01:53:39,127 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:53:39,128 - INFO - Получено сообщение от None (334124671): 🔍 Поиск карты
+2024-10-20 01:53:39,132 - INFO - Пользователь None (334124671) начал поиск карты.
+2024-10-20 01:53:39,256 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendMessage "HTTP/1.1 200 OK"
+2024-10-20 01:53:40,114 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:53:40,217 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:53:40,334 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageText "HTTP/1.1 200 OK"
+2024-10-20 01:53:41,445 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:53:41,560 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:53:41,861 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendPhoto "HTTP/1.1 200 OK"
+2024-10-20 01:53:42,186 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageReplyMarkup "HTTP/1.1 200 OK"
+2024-10-20 01:53:43,160 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:53:43,162 - INFO - Получено сообщение от None (334124671): 🔍 Поиск карты
+2024-10-20 01:53:43,166 - INFO - Пользователь None (334124671) начал поиск карты.
+2024-10-20 01:53:43,306 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendMessage "HTTP/1.1 200 OK"
+2024-10-20 01:53:44,373 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:53:44,507 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:53:44,675 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageText "HTTP/1.1 200 OK"
+2024-10-20 01:53:45,588 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:53:45,692 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:53:46,038 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendPhoto "HTTP/1.1 200 OK"
+2024-10-20 01:53:46,149 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageReplyMarkup "HTTP/1.1 200 OK"
+2024-10-20 01:53:47,385 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:53:47,387 - INFO - Получено сообщение от None (334124671): 🔍 Поиск карты
+2024-10-20 01:53:47,387 - INFO - Пользователь None (334124671) начал поиск карты.
+2024-10-20 01:53:47,501 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendMessage "HTTP/1.1 200 OK"
+2024-10-20 01:53:48,754 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:53:48,865 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:53:48,982 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageText "HTTP/1.1 200 OK"
+2024-10-20 01:53:49,574 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:53:49,692 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:53:49,825 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageText "HTTP/1.1 200 OK"
+2024-10-20 01:53:51,209 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:53:51,210 - INFO - Получено сообщение от None (334124671): 🔍 Поиск карты
+2024-10-20 01:53:51,211 - INFO - Пользователь None (334124671) начал поиск карты.
+2024-10-20 01:53:51,326 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendMessage "HTTP/1.1 200 OK"
+2024-10-20 01:54:01,308 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:54:11,407 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:54:21,513 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:54:31,612 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:54:41,712 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:54:51,810 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:55:01,908 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:55:12,007 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:55:22,106 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:55:27,105 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:55:27,105 - INFO - Application is stopping. This might take a moment.
+2024-10-20 01:55:27,106 - INFO - Scheduler has been shut down
+2024-10-20 01:55:27,107 - INFO - Application.stop() complete
+2024-10-20 01:57:09,872 - INFO - Бот запущен.
+2024-10-20 01:57:09,954 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-10-20 01:57:10,391 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getMe "HTTP/1.1 200 OK"
+2024-10-20 01:57:10,487 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/deleteWebhook "HTTP/1.1 200 OK"
+2024-10-20 01:57:10,488 - INFO - Added job "send_daily_cards" to job store "default"
+2024-10-20 01:57:10,488 - INFO - Scheduler started
+2024-10-20 01:57:10,489 - INFO - Application started
+2024-10-20 01:57:15,786 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:57:15,787 - INFO - Получено сообщение от None (334124671): 🔍 Поиск карты
+2024-10-20 01:57:15,788 - INFO - Пользователь None (334124671) начал поиск карты.
+2024-10-20 01:57:16,347 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendMessage "HTTP/1.1 200 OK"
+2024-10-20 01:57:17,409 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:57:17,516 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:57:17,635 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageText "HTTP/1.1 200 OK"
+2024-10-20 01:57:18,386 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:57:18,494 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:57:18,863 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendPhoto "HTTP/1.1 200 OK"
+2024-10-20 01:57:18,977 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageReplyMarkup "HTTP/1.1 200 OK"
+2024-10-20 01:57:20,273 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:57:20,274 - INFO - Получено сообщение от None (334124671): 🔍 Поиск карты
+2024-10-20 01:57:20,276 - INFO - Пользователь None (334124671) начал поиск карты.
+2024-10-20 01:57:20,414 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendMessage "HTTP/1.1 200 OK"
+2024-10-20 01:57:21,311 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:57:21,441 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:57:21,558 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageText "HTTP/1.1 200 OK"
+2024-10-20 01:57:22,429 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:57:22,552 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:57:22,820 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendPhoto "HTTP/1.1 200 OK"
+2024-10-20 01:57:22,935 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageReplyMarkup "HTTP/1.1 200 OK"
+2024-10-20 01:57:26,921 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:57:26,922 - INFO - Получено сообщение от None (334124671): 🔍 Поиск карты
+2024-10-20 01:57:26,925 - INFO - Пользователь None (334124671) начал поиск карты.
+2024-10-20 01:57:27,045 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendMessage "HTTP/1.1 200 OK"
+2024-10-20 01:57:28,605 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:57:28,724 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:57:28,852 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageText "HTTP/1.1 200 OK"
+2024-10-20 01:57:29,716 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:57:29,830 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-10-20 01:57:30,156 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/sendPhoto "HTTP/1.1 200 OK"
+2024-10-20 01:57:30,269 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/editMessageReplyMarkup "HTTP/1.1 200 OK"
+2024-10-20 01:57:39,828 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:57:50,046 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:58:00,144 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:58:10,244 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:58:20,353 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:58:30,447 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:58:40,596 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:58:50,686 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:59:00,781 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:59:10,893 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:59:21,047 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:59:31,155 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:59:41,272 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 01:59:51,405 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 02:00:01,500 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 02:00:11,594 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 02:00:21,684 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 02:00:31,839 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 02:00:41,935 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 02:00:52,032 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 02:01:02,127 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 02:01:12,278 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 02:01:22,369 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 02:01:32,464 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 02:01:42,581 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 02:01:52,711 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 02:01:56,326 - INFO - HTTP Request: POST https://api.telegram.org/bot7511422141:AAEKOUXryQ0C8xf77uEYJcC9abj_e-lVpMk/getUpdates "HTTP/1.1 200 OK"
+2024-10-20 02:01:56,326 - INFO - Application is stopping. This might take a moment.
+2024-10-20 02:01:56,327 - INFO - Scheduler has been shut down
+2024-10-20 02:01:56,328 - INFO - Application.stop() complete
